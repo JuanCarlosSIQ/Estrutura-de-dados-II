@@ -4,7 +4,7 @@ Professora: Kadidja Valeria
 Nome: Juan Carlos Siqueira de Lima
 Turma: D1
 Data: 28/09/2026
----
+
 ETAPA 1 - REVISAO BIBLIOGRAFICA
 
 Conceitos basicos:
@@ -79,7 +79,7 @@ Tipos de arvore:
  Busca e insercao: vai olhando letra por letra.
  Ajuste: nao precisa ajustar.
  Uso: autocompletar e dicionarios.
----
+
 ETAPA 2 - QUADRO COMPARATIVO
 
 | Estrutura | Organizacao dos dados | Regra ou propriedade | Operacao ou ajuste | Aplicacao | Referencia |
@@ -93,7 +93,7 @@ ETAPA 2 - QUADRO COMPARATIVO
 | Heap | Arvore em vetor. | Pai maior ou menor que os filhos. | Sobe ou desce elemento. | Fila de prioridade. | Materiais da aula|
 | Trie | Uma letra em cada no. | Aproveita inicio igual das palavras. | Anda letra por letra. | Autocompletar. | Materiais da aula |
 
----
+
 
 ETAPA 3 - ANALOGIAS
 
@@ -132,7 +132,7 @@ Estrutura: Arvore Binaria de Busca (ABB).
 Justificativa: regra basica da ABB, menor na esquerda e maior na direita.
 Limite: em colecao fisica as coisas sao fixas, na ABB o codigo decide o caminho na hora.
 
----
+
 
 Referencias:
 -Site educativo Visualgo.net, utilizado na atividade de jogo.
