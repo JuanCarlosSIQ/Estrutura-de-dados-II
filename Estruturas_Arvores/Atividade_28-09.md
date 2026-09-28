@@ -97,17 +97,27 @@ Estrutura: Arvore B.
 Justificativa: guarda varios dados no no e quando enche divide em dois.
 Limite: no papel rasga a folha, na memoria so cria um no novo.
 
-3. Estrutura com cores e rotacoes:
+3. Fila com maior prioridade no topo:
+Estrutura: Heap.
+Justificativa: o maior ou mais importante fica na raiz pra sair primeiro.
+Limite: em fila normal e por ordem de chegada, no heap quem e importante passa na frente.
+
+4. Indice que anda letra por letra:
+Estrutura: Trie.
+Justificativa: cada no e uma letra e palavras com mesmo inicio usam o mesmo caminho.
+Limite: no livro ve a palavra inteira, na trie vai de letra em letra.
+
+5. Estrutura com cores e rotacoes:
 Estrutura: Arvore Rubro-Negra.
 Justificativa: usa as cores vermelho e preto pra saber quando ajustar e nao deixar a arvore ficar torta.
 Limite: cor no dia a dia e so enfeite, na arvore e regra de codigo.
 
-4. Indice que vai pras folhas ligadas entre si:
+6. Indice que vai pras folhas ligadas entre si:
 Estrutura: Arvore B+.
 Justificativa: dados ficam so nas folhas e elas sao ligadas em fila.
 Limite: no livro procura a pagina na mao, na B+ vai direto puxando a fila.
 
-5. Coleção onde menor vai pra esquerda e maior pra direita:
+7. Colecao onde menor vai pra esquerda e maior pra direita:
 Estrutura: Arvore Binaria de Busca (ABB).
 Justificativa: regra basica da ABB, menor na esquerda e maior na direita.
 Limite: em colecao fisica as coisas sao fixas, na ABB o codigo decide o caminho na hora.
